@@ -11,3 +11,5 @@ services:
         value: 5678
       - key: N8N_PROTOCOL
         value: http
+      - key: N8N_ENFORCE_SETTINGS_FILE_PERMISSIONS
+        value: false
